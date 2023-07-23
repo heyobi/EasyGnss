@@ -31,7 +31,7 @@ To use EasyGnss, follow these steps:
 
 5. Select RINEX and Sp3 files: In the GUI, choose the RINEX and Sp3 files from your local storage.
 
-6. Click the "Calculate Position of Reciver" button: After selecting the required files, click the "Calculate" button to initiate the receiver coordinates calculation.
+6. After selecting the required files, click the "Calculate Position of Reciver" button to initiate the receiver coordinates calculation.
 
 7. View the results: Once the calculation is complete, you will see the position of the receiver at different times based on the GPS data.
 
