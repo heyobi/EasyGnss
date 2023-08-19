@@ -27,14 +27,7 @@ def select_file_sp3(entry_field):
 
 def select_file_RINEX(entry_field):
     filetypes = (
-        ('Observation File', '*.16o'),
-        ('Observation File', '*.17o'),
-        ('Observation File', '*.18o'),
-        ('Observation File', '*.19o'),
-        ('Observation File', '*.20o'),
-        ('Observation File', '*.21o'),
-        ('Observation File', '*.22o'),
-        ('Observation File', '*.23o'),
+        ('Observation File', '*.*o'),
         ('All files', '*.*')
     )
 
